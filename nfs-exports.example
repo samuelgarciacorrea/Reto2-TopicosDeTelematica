@@ -1,0 +1,4 @@
+/var/nfs/general ip_wp_1(rw,sync,no_subtree_check)
+/var/nfs/general ip_wp_2(rw,sync,no_subtree_check)
+/home ip_wp_1(rw,sync,no_root_squash,no_subtree_check)
+/home ip_wp_2(rw,sync,no_root_squash,no_subtree_check)
